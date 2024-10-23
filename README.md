@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Meng-Hsuan(Mason) Wu 👋
 
 <!--
 **CamusSisyphus/CamusSisyphus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🏦 ex-JPM worked on process automation for 5 years
+- 🧑‍💻 Pursing a master's in CS to Pivot to tech
+- 💻 Aspired software engineer
+- 🦦 I’m learning Go and TypeScript at the moment
